@@ -1,4 +1,24 @@
 body{
     background-color: rgb(255, 255, 255);
-    color: rgb(247, 4, 234);
+    color: rgb(0, 0, 0);
+}
+header{
+       background-color: aqua;
+       padding:40px;
+}
+.links{
+       color:rgb(0, 0, 0);
+       font-size: 20px;
+       text-decoration: none;
+       background-color:rgb(109, 201, 201) ;
+       padding: 15px  25px;
+       border-radius: 30px;
+
+
+
+
+}
+.titulo1{
+    color:rgb(84, 79, 85);
+    text-align:center;
 }
