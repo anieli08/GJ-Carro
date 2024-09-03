@@ -1,24 +1,32 @@
 body{
-    background-color: rgb(255, 255, 255);
-    color: rgb(0, 0, 0);
+      background-color: rgb(253, 253, 253);
+     color: black;
+     font-family: "Baskervville SC", serif;
+     padding: 0 150px;
+
 }
 header{
-       background-color: aqua;
-       padding:40px;
+        background-color: azure;
+         padding: 40px;
+
+}
+p{
+   font-size: 20px;
+
 }
 .links{
-       color:rgb(0, 0, 0);
-       font-size: 20px;
-       text-decoration: none;
-       background-color:rgb(109, 201, 201) ;
-       padding: 15px  25px;
-       border-radius: 30px;
-
-
-
+    color:aliceblue
+    font-size: 35px;
+    text-decoration: none;
+    background-color: pink;
+    padding: 15px 10px;
+    border-radius:30px;
 
 }
-.titulo1{
-    color:rgb(84, 79, 85);
+.titulo{
+    color:azure;
     text-align:center;
 }
+
+
+
